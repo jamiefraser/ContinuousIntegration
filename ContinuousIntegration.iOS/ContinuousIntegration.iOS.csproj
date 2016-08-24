@@ -80,7 +80,7 @@
     <ConsolePause>False</ConsolePause>
     <MtouchArch>ARMv7, ARM64</MtouchArch>
     <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
-    <CodesignProvision>Automatic:AppStore</CodesignProvision>
+    <CodesignProvision>c628b7e6-4db7-4584-acc6-c8db3f3265b7</CodesignProvision>
     <CodesignKey>iPhone Distribution</CodesignKey>
   </PropertyGroup>
   <ItemGroup>
