@@ -37,7 +37,7 @@ namespace ContinuousIntegrationTest.iOS
         public void AppLaunches ()
         {
             app.Screenshot ("First screen.");
-            app.WaitForElement (x => x.Marked ("Hello!"));
+            app.WaitForElement (x => x.Marked ("Bonjour!"));
         }
     }
 }
