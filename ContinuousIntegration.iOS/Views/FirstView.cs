@@ -11,7 +11,7 @@ namespace ContinuousIntegration.iOS.Views
         public FirstView() : base("FirstView", null)
         {
             labelHello = new UILabel();
-            labelHello.Text = "Hello!";
+            labelHello.Text = "Bonjour!";
             
         }
 
